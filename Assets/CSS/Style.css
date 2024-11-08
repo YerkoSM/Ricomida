@@ -1,0 +1,47 @@
+body{
+    font-family: "Cabin", sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.fondo-nv{
+    background-color: #373A3C;
+}
+
+.logo-nv {
+    font-family: "Lobster", sans-serif;
+    
+}
+.titulo-p {
+    color: #373A3C;
+    font-family: "Cabin", sans-serif;
+}
+
+.tiempo {
+    font-size: 1.3rem;
+}
+
+.foto.sld {
+    width: 100%;
+}
+
+.color-txt {
+    color: #373A3C;
+    font-family: "Cabin", sans-serif;
+}
+
+.color-txt1 {
+    color: #373A3C;
+    font-family: "Cabin", sans-serif;
+}
+
+.rico-mida {
+    font-family: "Lobster", sans-serif;
+}
+
+.bg-rojito {
+    background-color: #DC3545;
+}
+
+.bg-foot {
+    background-color: #373A3C;
+}
